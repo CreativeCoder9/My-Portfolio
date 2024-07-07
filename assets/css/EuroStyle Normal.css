@@ -3,4 +3,5 @@
 	src: url(../../assets/fonts/EuroStyle%20Normal.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
+	font-display: auto;
 }
